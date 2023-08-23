@@ -1,7 +1,7 @@
 # BatteryScavenger
 Hardware to extract last drip of energy from old batteries.
 
-#Thoughts
+# Thoughts
 * NiMH as an energy bank due to small self-discharging
 * TPS6120X for low cost BOM to boost 0.3 to 5V.
 * BQ25172 as NiMH battery charger
@@ -9,5 +9,5 @@ Hardware to extract last drip of energy from old batteries.
 * Low Ron FETs?
 * Microcontroller (STM32L0) to manage total energy saved.
 
-#TODOs
+# TODOs
 - [ ] Experiments
